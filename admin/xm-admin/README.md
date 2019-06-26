@@ -1,6 +1,6 @@
-# xmmp-v
+# xmad
 
-> 微信小程序（基于mpvue）
+> xm后台管理（基于vue）
 
 ## 使用步骤
 
@@ -14,7 +14,5 @@ npm run dev
 # 启动mock服务localhost:3000
 npm run mock
 
-# 预览
-打开微信开发者工具，新建项目，将目录指向 /dist 即可
 
 ```
